@@ -1,0 +1,9 @@
+MaximumTreeHeight=3
+MaximumPopulationSize=800
+TerminalSets=x,1,2,3,4,5,6,7,8,9
+FunctionalSets=*, +, -, /
+FitnessMeasure=(X^2-1)/2
+TerminationCriteria=0.01
+CrossoverRatio=15
+MutationRatio=15
+MaximumAttemps=50

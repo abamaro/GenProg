@@ -1,0 +1,9 @@
+Average Statistics:
+# Trials conducted: 1
+Population size: 1000
+Max Error Allowed: 0.0
+Avg # generations to solution: 12.0
+Avg # nodes in solution: 7.0
+Avg time to solution (seconds): 16.0
+
+
